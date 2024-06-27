@@ -13,7 +13,7 @@ module.exports = {
   ],
   root: true,
   env: {
-    node: true,
+    node: FALSE,
     jest: true,
   },
   ignorePatterns: ['.eslintrc.js', '__tests__', 'jest.config.mjs'],
